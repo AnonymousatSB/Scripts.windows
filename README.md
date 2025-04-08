@@ -1,0 +1,4 @@
+-- Use this as a secured file. Every Download Can Cause in Your OS Damage.
+-- Every time u use this have caution(like very very)this files can corromp your WINDOWS.
+-- Start BAT File.
+-- Execute program
